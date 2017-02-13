@@ -10,4 +10,5 @@ Simulation experiments for various sorting techniques, evaluate their performanc
 
 ####Tech Stack
 Code Implementation: C<br>
-Visualization: JavaScript, Chart.js<br>
+Simulation of Sorting: JavaScript, Chart.js<br>
+Visualization Video: https://www.youtube.com/watch?v=fRbA64VtDc0
